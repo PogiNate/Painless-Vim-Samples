@@ -1,0 +1,13 @@
+Let's learn about counting!
+
+Correct the spelling of this word by adding three or four "o"s: Longcat
+
+Correct the following sentence using three keystrokes:
+- I am so incredibly stupid, useless, and talented.
+
+Delete the next four lines all at once:
+- Delete Me!
+- Delete Me!
+- Delete Me!
+- Delete Me!
+
