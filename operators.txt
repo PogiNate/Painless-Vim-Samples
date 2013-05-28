@@ -1,0 +1,30 @@
+# Operator Practice!
+
+## Single Character Changes
+
+Remove a duplicated letter from the following words using the `d` command, or the `x` command.
+
+- ddoctor
+- appple
+- awway
+
+Use ~ and r on the sentence below:
+
+"you can't grep a fred tree." --larry wall
+
+Yank and put (`ylp`) a single letter to duplicate it. Let's pretend that this is faster than just typing the letter. It'll make more sense in a bit.
+
+- mose
+- gose
+- mon
+
+*Extra Credit:* Think of a word that has a duplicated letter *other* than "o". It's really hard! Okay, here's a couple:
+
+- comitie
+- Misisipi
+
+## Line-wise changes:
+
+Delete everything after the comma, then replace the comma with a period:
+emacs is a great operating system, it just needs a good editor.
+
