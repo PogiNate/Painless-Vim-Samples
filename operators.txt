@@ -26,5 +26,15 @@ Yank and put (`ylp`) a single letter to duplicate it. Let's pretend that this is
 ## Line-wise changes:
 
 Delete everything after the comma, then replace the comma with a period:
-emacs is a great operating system, it just needs a good editor.
+emacs is a great operating system, but it needs a good editor.
+
+Duplicate the following line twice:
+
+- Hip Hip, Hooray!
+
+Put the following statements in order:
+
+This far!
+The line must be drawn here!
+No further!
 
