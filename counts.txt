@@ -1,4 +1,4 @@
-Let's learn about counting!
+Let's practice counting!
 
 Correct the spelling of this word by adding three or four "o"s: Longcat
 
@@ -11,3 +11,24 @@ Delete the next four lines all at once:
 - Delete Me!
 - Delete Me!
 
+Now paste them twice (2p) and delete them all again:
+
+
+
+Let's make the following sentence say something nice about emacs. Delete the seven words between "great" and "editor". 
+
+- emacs is a great operating system, but it needs a good editor.
+
+Yank the word "seven " from the middle of this sentence and put it into the line below:
+
+- Four score and seven years ago...
+
+Let's write out the first line of the 1960's Batman theme song! Copy the first na and paste it 15 more times before the final "Batman!"
+
+- na Batman!
+
+Let's change the following poem to include two people instead of Jack and Jack:
+
+- Jack and Jack went up the hill to fetch a pail of water.
+- Jack fell down and broke his crown
+- And Jack came tumbling after. 
