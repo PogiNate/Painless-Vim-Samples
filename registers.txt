@@ -1,0 +1,14 @@
+Let's move some text into registers!
+
+Delete each of the following four lines into its own register, then paste them back in the right order:
+
+- Four
+- Two
+- Three
+- One
+
+Obliterate the following line forever using the black hole register:
+
+- "Anything on paper is obsolete!" -Craig Bruce
+
+Search for any word in this document, delete it, and paste it back from the search register.
