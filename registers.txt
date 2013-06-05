@@ -12,3 +12,9 @@ Obliterate the following line forever using the black hole register:
 - "Anything on paper is obsolete!" -Craig Bruce
 
 Search for any word in this document, delete it, and paste it back from the search register.
+
+Unscramble the following sentence by appending all the words to a named register in the right order, then pasting that register back in place:
+
+- always you what can't get You want get
+
+
