@@ -1,0 +1,19 @@
+words vs WORDS
+
+The following url is stupider than it needs to be. Use a "lower case" *word* to remove one of the "dots".
+
+http://bob-dot-dot-com.com
+
+Now remove the entire URL above using a WORD command.
+
+let's change Inner words now! Make the cow below say the right sound:
+
+Oh the cow in the meadow goes "oink",
+Oh the cow in the meadow goes "oink",
+Then the farmer hits him on the head and grinds him up
+And that's how we get hamburgers!
+                                --Phoebe Buffay
+
+Now let's look at doing full text objects: replace the entire sentence below with something happier:
+
+"I seem to be having tremendous difficulty with my lifestyle" --Arthur Dent
