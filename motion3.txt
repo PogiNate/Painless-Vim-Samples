@@ -17,3 +17,6 @@ And that's how we get hamburgers!
 Now let's look at doing full text objects: replace the entire sentence below with something happier:
 
 "I seem to be having tremendous difficulty with my lifestyle" --Arthur Dent
+
+Move forward 5 words in the following sentence, then back two. Why, you ask? More like "why not?"
+
