@@ -14,9 +14,12 @@ Then the farmer hits him on the head and grinds him up
 And that's how we get hamburgers!
                                 --Phoebe Buffay
 
-Now let's look at doing full text objects: replace the entire sentence below with something happier:
+Now let's look at doing full text objects: replace the entire sentence (but not the entire line) below with something happier:
 
 "I seem to be having tremendous difficulty with my lifestyle" --Arthur Dent
 
-Move forward 5 words in the following sentence, then back two. Why, you ask? More like "why not?"
+Now let's change line seventeen. You don't need to to be told that you're not supposed to delete the entire line, you're a smart person. So remove the parentheses (and everything between them) using an "all" command.
 
+Move forward six words in the following sentence, then back two. Why, you ask? More like "why not?" You can do this with only four keystrokes. (Five, if you need to use ^ to get to the beginning of the line.)
+
+Spot the marks, X marks the spot!
