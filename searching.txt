@@ -1,0 +1,46 @@
+Welcome to the search sample!
+
+Let's start with an easy one. Down below there's a row of asterisks. 
+Get there by searching! Type "/" to search, and enter a bunch of asterisks, then press enter.
+
+When in the course of human events, fnord.
+
+Four score
+and
+Seven
+years
+ago
+fnord.
+
+To be? Or not? Toby? 
+
+
+*******************
+ATTENTION: The Illuminati have been doing terrible things to quotes of great works of literature! 
+You need to find and destroy all instances of the word "fnord" in this document, 
+except for that last one, you know, the one we just put in there to tell you what to destroy.
+Don't destroy that one, because otherwise you won't know what to destroy.
+Start by searching bacwards for the word...the word you're supposed to destroy... by typing "?" and then the word.
+DO IT NOW!!!
+
+Once you've cleaned out all the Illuminati influence above this secret message, you need to search BELOW this secret message. 
+You can either type "/" and start a new search, or search BACKWARDS by typing "N".
+The fate of this document is in your hands!
+*******************
+
+
+Lorem ipsum dolor fnord amet. 
+
+Omnia gallia in tres partes fnord amet.
+
+*******
+The "Old" vs "New Section!
+*******
+
+This part of the document will have the word "old" in it a lot, so you can practice doing regular expression searches. Fun, huh?
+
+Old ironsides, old iron, old sides.
+
+Old people laugh more. Probably. 
+
+Old friends are gold. YEP. GOLD. It's got the word OLD right in it, and you don't want it to be "GNEW", do you?
