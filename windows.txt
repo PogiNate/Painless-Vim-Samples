@@ -1,0 +1,27 @@
+Let's play with windows!
+
+First trick: create a new window by typing :sp now:
+
+Okay, now put your cursor on line 4 and type something. You should see your text appear in both windows AT THE SAME TIME! It's like magic!
+
+Now let's add a new VERTICAL split using the :vs command. You should have one big window and two little ones. Let's mess about a bit with one of the little ones.
+
+Below is a professionally drawn box. Make one of the small windows exactly fit the box using:
+
+<ctrl>+w + : Make a window taller
+<ctrl>+w - : Make a window shorter
+<ctrl>+w > : Make a window wider
+<ctrl>+w < : make a window narrower.
+
+
++----------------------------------+
+|                                  | 
+|                                  |
+|                                  | 
+|      Box by Jony Ive.            | 
+|                                  | 
+|                                  | 
+|                                  | 
+|                                  | 
+|                                  | 
++----------------------------------+
